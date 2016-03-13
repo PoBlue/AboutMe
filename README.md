@@ -4,7 +4,7 @@
 ## 基本信息
 ---------
 
-**姓名：** 莫威权，也可以叫我B612
+**姓名：** 莫威权
 
 **性别：**男
 
@@ -65,6 +65,7 @@
 ### 番茄时间App
 
 ![25MinApp](http://upload-images.jianshu.io/upload_images/1132519-5cf7891e412215fc.gif?imageMogr2/auto-orient/strip)
+
 **应用技术**
 - Sketch 画出要用的 UI，StoryBoard 和 代码 进行界面布局
 - 适配者模式 和 KVO观察者模式 完成计时通知
@@ -89,6 +90,7 @@
 
 ### 简书博客
 因为自己在简书上写博客，所以也就作为个人项目来运营。
+
 **写过的文章**
 - iOS 本地保存数据  
   - APP生命周期
