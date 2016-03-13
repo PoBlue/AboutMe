@@ -4,16 +4,21 @@
 ## 基本信息
 ---------
 
-- **姓名：** 莫威权，也可以叫我B612
-- **性别：**男
-- **学历：**本科
-- **语言：**英语 (大学英语6级)，粤语，普通话
+**姓名：** 莫威权，也可以叫我B612
 
-- **邮箱：**250299430@qq.com
-- **微信：**q250299430
+**性别：**男
 
-- **GitHub:** https://github.com/PoBlue
-- **博客：**http://www.jianshu.com/users/81f7dcc6a98e/latest_articles
+**学历：**本科
+
+**语言：**英语 (大学英语6级)，粤语，普通话
+
+**邮箱：**250299430@qq.com
+
+**微信：**q250299430
+
+**GitHub:** https://github.com/PoBlue
+
+**博客：**http://www.jianshu.com/users/81f7dcc6a98e/latest_articles
 
 ## 掌握技能
 ---------
@@ -118,9 +123,11 @@
 -------------
 
 >**喜欢的书：**小王子 ，程序员修炼之道 ，朝圣 ，Problem Solving 101 , 东周列国志
+
 **喜欢的人：**乔布斯，曹操 ，老毛
 
 >**喜欢的游戏：**逆转裁判，勇者斗恶龙，三国杀，部落战争
+
 **喜欢的App：**Moke ，Day One , Workflow , 印象笔记 ，马克飞象
 
 >**喜欢的技术网站：**Raywenderlich ，appCoda ，Stack Overflow , Google , Udacity
